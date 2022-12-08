@@ -1,4 +1,6 @@
 POS Inventory Management Solution
+
+
 ![image](https://user-images.githubusercontent.com/32578797/206519573-b53b1a55-9181-4f32-8ce1-5e26325dbcb3.png)
 
 Keeping your sales and stock data in sync can boost profits and customer satisfaction.
